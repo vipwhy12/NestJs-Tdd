@@ -26,6 +26,10 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+TDD 연습용
+
+출처: https://www.tomray.dev/nestjs-unit-testing
+
 ## Project setup
 
 ```bash
